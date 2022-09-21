@@ -1,6 +1,6 @@
 package recapDemo2;
 
-public class recapDemo2 {
+public class RecapDemo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package arraysDemo;
 
 import java.util.Iterator;
 
-public class arraysDemo {
+public class ArraysDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

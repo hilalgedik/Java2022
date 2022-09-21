@@ -1,6 +1,6 @@
 package arkadasSayilar;
 
-public class arkadasSayilar {
+public class ArkadasSayilar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
 package mukemmelSayi;
 
-public class mukemmelSayi {
+public class MukemmelSayi {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
